@@ -6,8 +6,7 @@ public class Main {
         int milesPrice = 20;
 
         int bonusMiles = ticketPrice/milesPrice;
-        //TIP Нажмите <shortcut actionId="ShowIntentionActions"/>, когда курсор находится на подсвеченном тексте,
-        // чтобы увидеть предложения IntelliJ IDEA по исправлению.
+
         System.out.println(bonusMiles);
 
     }
